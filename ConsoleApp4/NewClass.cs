@@ -7,5 +7,6 @@ namespace ConsoleApp4
 {
     class NewClass
     {
+        void SDF(){}
     }
 }
